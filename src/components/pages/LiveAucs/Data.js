@@ -14,6 +14,6 @@ export const LiveObjTwo = {
     lightTextDesc: true,
     topline: 'Athena',
     headline: 'QuantHackers Team',
-    description: 'Visit and support our recent blog!',
+    description: 'We have to add sth else',
     buttonLabel: 'View blog'
 }
