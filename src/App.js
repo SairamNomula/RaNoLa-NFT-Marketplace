@@ -4,8 +4,8 @@ import Navbar from './components/pages/Navbar';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 import Home from './components/pages/HomePage/Home'
 import Community from './components/pages/Community/Community'
-import Contact from './components/pages/Contact/Contact'
-import Footer from './components/pages/Footer/Footer'
+import LiveAucs from './components/pages/LiveAucs/LiveAucs'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -13,8 +13,8 @@ function App() {
       <Navbar />
       <Switch>
         <Route path='/' exact component={Home}/>
-        <Route path='/Community' exact component={Community}/>
-        <Route path='/Contact' exact component={Contact}/>
+        <Route path='/Community' component={Community}/>
+        <Route path='/Live Auctions' component={LiveAucs}/>
       </Switch>
       <Footer />
     </Router>

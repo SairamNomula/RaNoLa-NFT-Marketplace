@@ -1,4 +1,4 @@
-export const communityObjOne ={
+export const LiveObjOne ={
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
@@ -8,7 +8,7 @@ export const communityObjOne ={
     buttonLabel: 'View blog'
 }
 
-export const communityObjTwo = {
+export const LiveObjTwo = {
     lightBg: false,
     lightText: true,
     lightTextDesc: true,

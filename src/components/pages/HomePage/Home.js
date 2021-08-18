@@ -3,7 +3,7 @@ import Works from '../../Works'
 import Auction from '../../Auction'
 import Live from '../../Live'
 import Hero from '../../Hero'
-import {homeObjOne,homeObjTwo} from './Data'
+import {homeObjOne} from './Data'
 import Artist from '../../Artist'
 import Testimonial from '../../Testimonial'
 

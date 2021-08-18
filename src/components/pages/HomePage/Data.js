@@ -10,15 +10,3 @@ export const homeObjOne ={
     img: 'images/couple.png',
     alt: 'couple'
 }
-
-// export const homeObjTwo ={
-//     lightBg: false,
-//     lightText: true,
-//     lightTextDesc: true,
-//     topline: 'Module 2 ',
-//     headline: 'Module 2 head',
-//     description: 'Module 2 desc',
-//     imgStart: '',
-//     img: '',
-//     alt: ''
-// }
