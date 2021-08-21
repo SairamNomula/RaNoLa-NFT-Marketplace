@@ -1,9 +1,9 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
-import {BsBrush} from 'react-icons/bs'
-import {FaRobot} from 'react-icons/fa'
-import {FcCamera} from 'react-icons/fc'
-import {RiBrush4Fill} from 'react-icons/ri'
+import {GiWaterSplash} from 'react-icons/gi'
+import {SiFigshare} from 'react-icons/si'
+import {SiFossilscm} from 'react-icons/si'
+import {GiBleedingHeart} from 'react-icons/gi'
 import {IconContext} from 'react-icons/lib'
 import {Button} from './Button'
 import './Auction.css'
@@ -14,54 +14,58 @@ function Auction() {
         <div>
             <div className="auction__section">
                 <div className="auction__wrapper">
-                    <h1 className="auction__heading">Popular collections</h1>
+                    <h1 className="auction__heading">Popular NFTs</h1>
                     <h3 className="auction__subheading">Most popular ---</h3>
                     <div className="auction__container">
-                        <Link to='/connect' className='auction__container-card'>
+                        <Link to='/' className='auction__container-card'>
                             <div className="auction__container-cardInfo">
                                 <div className="icon">
-                                    <BsBrush />
+                                    <GiWaterSplash />
                                 </div>
-                                <h3>Illusions</h3>
-                                <Button buttonSize='btn--wide' buttonColor='primary'>
+                                <h3>Splash</h3>
+                                <p>by XXXX</p>
+                                {/* <Button buttonSize='btn--wide' buttonColor='primary'>
                                     View more
-                                </Button>
+                                </Button> */}
                             </div>
                         </Link>
 
-                        <Link to='/connect' className='auction__container-card'>
+                        <Link to='/' className='auction__container-card'>
                             <div className="auction__container-cardInfo">
                                 <div className="icon">
-                                    <FcCamera />
+                                    <SiFossilscm />
                                 </div>
-                                <h3>Photography</h3>
-                                <Button buttonSize='btn--wide' buttonColor='purple'>
+                                <h3>Fossill</h3>
+                                <p>by XXXX</p>
+                                {/* <Button buttonSize='btn--wide' buttonColor='purple'>
                                     View more
-                                </Button>
+                                </Button> */}
                             </div>
                         </Link>
                         
-                        <Link to='/connect' className='auction__container-card'>
+                        <Link to='/' className='auction__container-card'>
                             <div className="auction__container-cardInfo">
                                 <div className="icon">
-                                    <FaRobot />
+                                    <SiFigshare />
                                 </div>
-                                <h3>Robotic Arts</h3>
-                                <Button buttonSize='btn--wide' buttonColor='primary'>
+                                <h3>Spiry</h3>
+                                <p>by XXXX</p>
+                                {/* <Button buttonSize='btn--wide' buttonColor='primary'>
                                     View more
-                                </Button>
+                                </Button> */}
                             </div>
                         </Link>
 
-                        <Link to='/connect' className='auction__container-card'>
+                        <Link to='/' className='auction__container-card'>
                             <div className="auction__container-cardInfo">
                                 <div className="icon">
-                                    <RiBrush4Fill />
+                                    <GiBleedingHeart />
                                 </div>
-                                <h3>Arts</h3>
-                                <Button buttonSize='btn--wide' buttonColor='purple'>
+                                <h3>BleedArt</h3>
+                                <p>by XXXX</p>
+                                {/* <Button buttonSize='btn--wide' buttonColor='purple'>
                                     View more
-                                </Button>
+                                </Button> */}
                             </div>
                         </Link>
                         

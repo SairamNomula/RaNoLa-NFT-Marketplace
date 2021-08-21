@@ -11,7 +11,7 @@ import { RiCopperCoinLine } from 'react-icons/ri';
 function Footer() {
   return (
     <div className='footer-container'>
-      <section className='footer-subscription'>
+      {/* <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
           Join us to receive the latest news and trends
         </p>
@@ -29,13 +29,12 @@ function Footer() {
             <Button buttonStyle='btn--outline'>Subscribe</Button>
           </form>
         </div>
-      </section>
+      </section> */}
       <div className='footer-links'>
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
             <h2>About Us</h2>
-            <Link to='/connect'>How it works</Link>
-            <Link to='/'>Testimonials</Link>
+            <Link to='/'>How it works</Link>
             <Link to='/'>Investors</Link>
             <Link to='/'>Terms of Service</Link>
           </div>
