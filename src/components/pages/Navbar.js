@@ -54,11 +54,6 @@ function Navbar() {
                             Community
                         </Link>
                     </li>
-                    <li className='nav-item'>
-                        <Link to='/' className="nav-links" onClick={closeMobileMenu}>
-                            Coming soon
-                        </Link>
-                    </li>
                     <li className="nav-btn">
                         {button ? (
                             <Link className="btn-link">

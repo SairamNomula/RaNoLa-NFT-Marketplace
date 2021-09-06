@@ -15,7 +15,7 @@ function Live() {
             <div className="Live__section">
                 <div className="Live__wrapper">
                     <h1 className="Live__heading">Auctions</h1>
-                    <h3 className="Live__subheading">Live Auctions ---</h3>
+                    <h3 className="Live__subheading">Live Auctions</h3>
                     <div className="Live__container">
                         <Link to='/connect' className='Live__container-card'>
                             <div className="Live__container-cardInfo">
@@ -24,8 +24,8 @@ function Live() {
                                 </div>
                                 <h3>Illusions</h3>
                                 <ul className='Live__container-features'>
-                                    <li>by Sairam Nomula</li>
-                                    <li>1.7BNB</li>
+                                    <li>by Vijay Sugali</li>
+                                    <li>1.7 BNB</li>
                                 </ul>
                                 <Button buttonSize='btn--wide' buttonColor='primary'>
                                     View more
@@ -41,7 +41,7 @@ function Live() {
                                 <h3>Photography</h3>
                                 <ul className='Live__container-features'>
                                     <li>by Sairam Nomula</li>
-                                    <li>1.7BNB</li>
+                                    <li>2 BNB</li>
                                 </ul>
                                 <Button buttonSize='btn--wide' buttonColor='purple'>
                                     View more
@@ -56,8 +56,8 @@ function Live() {
                                 </div>
                                 <h3>Robotic Arts</h3>
                                 <ul className='Live__container-features'>
-                                    <li>by Sairam Nomula</li>
-                                    <li>1.7BNB</li>
+                                    <li>by Aryan</li>
+                                    <li>1.5 BNB</li>
                                 </ul>
                                 <Button buttonSize='btn--wide' buttonColor='primary'>
                                     View more
@@ -72,8 +72,8 @@ function Live() {
                                 </div>
                                 <h3>Arts</h3>
                                 <ul className='Live__container-features'>
-                                    <li>by Sairam Nomula</li>
-                                    <li>1.7BNB</li>
+                                    <li>by Shubham Patel</li>
+                                    <li>1 BNB</li>
                                 </ul>
                                 <Button buttonSize='btn--wide' buttonColor='purple'>
                                     View more

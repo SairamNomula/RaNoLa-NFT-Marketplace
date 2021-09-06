@@ -5,7 +5,6 @@ import {SiPostwoman} from 'react-icons/si'
 import {VscAccount} from 'react-icons/vsc'
 import {GiLizardman} from 'react-icons/gi'
 import {IconContext} from 'react-icons/lib'
-import {Button} from './Button'
 import './Artist.css'
 
 function Artist() {
@@ -15,9 +14,9 @@ function Artist() {
             <div className="Artist__section">
                 <div className="Artist__wrapper">
                     <h1 className="Artist__heading">Creative Artists</h1>
-                    <h3 className="Artist__subheading">Top sellers ---</h3>
+                    <h3 className="Artist__subheading">Top sellers</h3>
                     <div className="Artist__container">
-                        <Link to='/connect' className='Artist__container-card'>
+                        <Link to="/Community" className='Artist__container-card'>
                             <div className="Artist__container-cardInfo">
                                 <div className="icon">
                                     <GiPyromaniac />
@@ -26,7 +25,7 @@ function Artist() {
                             </div>
                         </Link>
 
-                        <Link to='/connect' className='Artist__container-card'>
+                        <Link to='/Community' className='Artist__container-card'>
                             <div className="Artist__container-cardInfo">
                                 <div className="icon">
                                     <VscAccount />
@@ -35,7 +34,7 @@ function Artist() {
                             </div>
                         </Link>
                         
-                        <Link to='/connect' className='Artist__container-card'>
+                        <Link to='/Community' className='Artist__container-card'>
                             <div className="Artist__container-cardInfo">
                                 <div className="icon">
                                     <SiPostwoman />
@@ -44,7 +43,7 @@ function Artist() {
                             </div>
                         </Link>
 
-                        <Link to='/connect' className='Artist__container-card'>
+                        <Link to='/Community' className='Artist__container-card'>
                             <div className="Artist__container-cardInfo">
                                 <div className="icon">
                                     <GiLizardman />
@@ -52,6 +51,7 @@ function Artist() {
                                 <h3>Shubham patel</h3>
                             </div>
                         </Link>
+                        
                     </div>
                 </div>
             </div>

@@ -15,7 +15,7 @@ function Auction() {
             <div className="auction__section">
                 <div className="auction__wrapper">
                     <h1 className="auction__heading">Popular NFTs</h1>
-                    <h3 className="auction__subheading">Most popular ---</h3>
+                    <h3 className="auction__subheading">Most Popular</h3>
                     <div className="auction__container">
                         <Link to='/' className='auction__container-card'>
                             <div className="auction__container-cardInfo">
