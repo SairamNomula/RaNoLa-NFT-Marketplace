@@ -17,7 +17,7 @@ We faced a lot of difficulties in developing smart contract on top of Tezos Bloc
 
 ## Screenshots:
 ### Desktop view:
-![Screenshot_1](https://user-images.githubusercontent.com/78247889/132233637-53a88be2-8560-4c95-86d7-94d2abfc246f.png)
+![Screenshot_1](https://user-images.githubusercontent.com/78247889/132495420-b97f8455-edd7-43d2-b271-f813c73b1168.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/78247889/132233854-956bb6ba-c57a-4237-bcf7-e4beddb0125c.png)
 ### Mobile view:
 ![image](https://user-images.githubusercontent.com/78247889/132234010-d0adec3e-b4b5-4d76-b32f-bbef53662779.png)
