@@ -57,10 +57,10 @@ function Navbar() {
                     <li className="nav-btn">
                         {button ? (
                             <Link className="btn-link">
-                                <Button to='/' buttonStyle='btn--outline'>Connect Wallet</Button>
+                                <Button to='/Connect' buttonStyle='btn--outline'>Connect Wallet</Button>
                             </Link>
                         ): (
-                            <Link to='/' className="btn-link" onClick={closeMobileMenu}>
+                            <Link to='/Connect' className="btn-link" onClick={closeMobileMenu}>
                                 <Button buttonStyle='btn--outline' buttonSize='btn--mobile'>Connect Wallet</Button>
                             </Link>
                         )}

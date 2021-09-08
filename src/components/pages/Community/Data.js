@@ -7,6 +7,6 @@ export const communityObjOne ={
     description: 'Visit and support our recent blog!',
     buttonLabel: 'View blog',
     imgStart: '',
-    img: 'images/bropn.png',
-    alt: 'team'
+    img: 'images/thug.gif',
+    alt: 'artgirl'
 }

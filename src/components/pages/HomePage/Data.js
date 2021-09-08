@@ -7,6 +7,6 @@ export const homeObjOne ={
     description: 'Explore on the  largest NFT marketplace',
     buttonLabel: 'Explore',
     imgStart: '',
-    img: 'images/couple.png',
-    alt: 'couple'
+    img: 'images/skull.gif',
+    alt: 'Skull'
 }

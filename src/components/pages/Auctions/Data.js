@@ -7,6 +7,6 @@ export const LiveObjOne ={
     description: 'Visit and support our recent blog!',
     buttonLabel: 'View blog',
     imgStart: '',
-    img: 'images/girl.gif',
-    alt: 'couple'
+    img: 'images/uncle.gif',
+    alt: 'gif'
 }
