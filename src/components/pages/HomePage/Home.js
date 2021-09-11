@@ -6,6 +6,7 @@ import Hero from '../../Hero'
 import {homeObjOne} from './Data'
 import Artist from '../../Artist'
 import Testimonial from '../../Testimonial'
+// import Footer from '../../Footer'
 
 function Home() {
     return (
@@ -17,6 +18,7 @@ function Home() {
             <Artist />
             <Auction /> {/* Auction page is Collections page */}
             <Testimonial />
+            {/* <Footer /> */}
         </>
     )
 }

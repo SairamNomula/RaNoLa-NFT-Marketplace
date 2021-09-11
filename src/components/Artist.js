@@ -30,7 +30,7 @@ function Artist() {
                                 <div className="icon">
                                     <VscAccount />
                                 </div>
-                                <h3>Vijay</h3>
+                                <h3>Vijay Sugali</h3>
                             </div>
                         </Link>
                         
@@ -39,7 +39,7 @@ function Artist() {
                                 <div className="icon">
                                     <SiPostwoman />
                                 </div>
-                                <h3>Aryan</h3>
+                                <h3>Dushyant Reddy</h3>
                             </div>
                         </Link>
 
@@ -48,7 +48,7 @@ function Artist() {
                                 <div className="icon">
                                     <GiLizardman />
                                 </div>
-                                <h3>Shubham patel</h3>
+                                <h3>Unknown</h3>
                             </div>
                         </Link>
                         
