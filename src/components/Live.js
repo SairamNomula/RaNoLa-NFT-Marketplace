@@ -24,7 +24,7 @@ function Live() {
                                 </div>
                                 <h3>Illusions</h3>
                                 <ul className='Live__container-features'>
-                                    <li>by Vijay Sugali</li>
+                                    <li>by Rudra</li>
                                     <li>1.7 BNB</li>
                                 </ul>
                                 <Button buttonSize='btn--wide' buttonColor='primary'>
@@ -56,7 +56,7 @@ function Live() {
                                 </div>
                                 <h3>Robotic Arts</h3>
                                 <ul className='Live__container-features'>
-                                    <li>by Dushyant</li>
+                                    <li>by David</li>
                                     <li>1.5 BNB</li>
                                 </ul>
                                 <Button buttonSize='btn--wide' buttonColor='primary'>

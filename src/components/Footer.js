@@ -32,10 +32,8 @@ function Footer() {
       <div className='footer-links'>
       <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
-            <h2>Team</h2>
+            <h2>Founder</h2>
             <a href='https://github.com/SairamNomula' target="_blank">Sairam Nomula</a>
-            <a href='https://github.com/sugalivijaychari' target="_blank">Vijay Sugali</a>
-            <a href='https://github.com/Dushyant029'>Dushyant Reddy</a>
           </div>
         </div>
         <div className='footer-link-wrapper'>
