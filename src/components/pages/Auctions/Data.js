@@ -2,11 +2,11 @@ export const LiveObjOne ={
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
-    topline: 'Athena',
-    headline: 'QuantHackers',
-    description: 'Visit and support our recent blog!',
+    // topline: '',
+    headline: 'Visit and support our recent blog!',
+    // description: '',
     buttonLabel: 'View blog',
     imgStart: '',
-    img: 'images/uncle.gif',
+    img: 'images/blog.gif',
     alt: 'gif'
 }

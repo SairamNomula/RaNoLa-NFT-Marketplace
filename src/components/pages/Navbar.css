@@ -1,6 +1,6 @@
 .navbar {
     background: #000;
-    height: 80px;
+    height: 70px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -50,12 +50,12 @@
 }
   
 .nav-item {
-    height: 80px;
-    border-bottom: 2px solid transparent;
+    height: 45px;
+    border-bottom: 2.5px solid transparent;
 }
   
 .nav-item:hover {
-    border-bottom: 2px solid #8A2BE2;
+    border-bottom: 2.5px solid #8A2BE2;
 }
   
 .nav-links {

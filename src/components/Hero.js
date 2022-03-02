@@ -25,7 +25,7 @@ function Hero({
                                 <div className="top-line">{topline}</div>
                                 <h1 className={lightText ? 'heading' : 'heading dark'}>{headline}</h1>
                                 <p className={lightTextDesc ? 'home__hero-subtitle' : 'home__hero-subtitle dark'}>{description}</p>
-                                <Link to="/connect">
+                                <Link to="/Auctions">
                                     <Button buttonSize='btn--wide' buttonColor='purple'>{buttonLabel}</Button>
                                 </Link>
                             </div>
