@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a361941e-7964-45c5-92e7-10ef8015e5f0/deploy-status)](https://athenamarketplace.netlify.app/)
-
 # Athena NFT Marketplace
 ## Create. Collect. Sell
 ## The Problem it solves
