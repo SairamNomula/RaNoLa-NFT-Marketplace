@@ -2,7 +2,7 @@ export const connectObjOne ={
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
-    topline: 'Athena',
+    topline: 'RaNoLa',
     headline: 'Connect your wallet',
     description: 'Connect with one of available wallet providers.',
     buttonLabel: 'Connect Wallet',

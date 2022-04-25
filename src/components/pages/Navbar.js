@@ -33,7 +33,7 @@ function Navbar() {
             <div className="navbar-container container">
                 <Link to='/' className="navbar-logo" onClick={closeMobileMenu}>
                     <RiCopperCoinLine className="navbar-icon" />
-                    Athena
+                    RaNoLa
                 </Link>
                 <div className="menu-icon" onClick={handleClick}>
                     {click ? <FaTimes /> : <FaBars />}

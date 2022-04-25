@@ -2,7 +2,7 @@ export const homeObjOne ={
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
-    topline: 'Athena',
+    topline: 'RaNoLa',
     headline: 'Discover, collect, and sell extraordinary NFTs',
     description: 'Explore on the  largest NFT marketplace',
     buttonLabel: 'Explore',

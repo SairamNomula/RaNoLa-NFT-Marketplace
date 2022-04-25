@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a361941e-7964-45c5-92e7-10ef8015e5f0/deploy-status)](https://athenamarketplace.netlify.app/)
 
-# Athena NFT Marketplace
+# RaNoLa NFT Marketplace
 ## Create. Collect. Sell
 ## The Problem it solves
 Every artists aren't much benefitted for their effort, energy and time. If they could benefit for their artworks, then it could motivate them a lot. Due to the high volatile nature of cryptocurrency prices and the high risk exist in trading, NFTs trading could be a 100% returns expectation investment. We have provided NFT marketplace for the NFT traders, creators and collectors with royalties in picture.
