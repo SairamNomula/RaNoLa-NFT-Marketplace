@@ -4,7 +4,6 @@ import { Button } from './Button';
 import { Link, Route } from 'react-router-dom';
 import {
   FaInstagram,
-  FaTwitter,
   FaGithub,
   FaLinkedin,
 } from 'react-icons/fa';

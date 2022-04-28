@@ -7,9 +7,16 @@ import Community from './components/pages/Community/Community'
 import Auctions from './components/pages/Auctions/Auctions'
 import Create from './components/pages/Create/Create'
 import Connect from './components/pages/Connect/Connect'
+import {Web3ReactProvider} from '@web3-react/core';
+import Web3 from 'web3';
+
+function getLibrary(provider){
+  return new Web3(provider)
+}
 
 function App() {
   return (
+    <Web3ReactProvider getLibrary={getLibrary}>
     <Router>
       <Navbar />
       <Switch>
@@ -20,6 +27,7 @@ function App() {
         <Route path='/Connect' component={Connect}/>
       </Switch>
     </Router>
+    </Web3ReactProvider>
   );
 }
 
