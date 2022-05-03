@@ -1,7 +1,7 @@
 .form-container {
     margin: 100px auto;
     width: 1000px;
-    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
     position: relative;
     border-radius: 10px;
     height: 600px;
@@ -13,8 +13,8 @@
   .form-content-left {
     background: linear-gradient(
       90deg,
-      rgba(255, 223, 42, 0.897) 0%,
-      rgba(255, 236, 128, 0.897) 100%
+      #a249f6 0%,
+      #8401ff 100%
     );
     border-radius: 10px 0 0 10px;
     position: relative;
@@ -48,7 +48,7 @@
   .form-content-right {
     border-radius: 0 10px 10px 0;
     position: relative;
-    background: linear-gradient(90deg, rgb(40, 40, 40) 0%, rgb(17, 17, 17) 100%);
+    background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(17, 17, 17) 100%);
   }
   
   .form {
@@ -112,12 +112,12 @@
     border-radius: 2px;
     background: linear-gradient(
       90deg,
-      #000 0%,
-      #000 100%
+      rgb(43, 43, 43) 0%,
+      rgb(107, 107, 107) 100%
     );
     outline: none;
     border: none;
-    color: rgb(134, 134, 134);
+    color: #ffffff;
     font-size: 1rem;
   }
   
@@ -125,8 +125,8 @@
     cursor: pointer;
     background: linear-gradient(
       90deg,
-      rgba(255, 223, 42, 0.897) 0%,
-      rgba(255, 236, 126, 0.897) 100%
+      #a249f6 0%,
+      #8401ff 100%
     );
     transition: all 0.4s ease-out;
   }
@@ -141,6 +141,6 @@
   
   .form-input-login a {
     text-decoration: none;
-    color: #ffd500;
+    color: #8A2BE2;
     font-weight: 600;
   }

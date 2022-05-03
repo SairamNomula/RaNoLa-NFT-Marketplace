@@ -16,7 +16,7 @@
 }
   
 .Upload__heading {
-    color: #ffdc36;
+    color: #8A2BE2;
     margin-bottom: 12px;
 }
 
@@ -102,7 +102,7 @@
     height: 20px;
     color: #000;
     border-radius: 10px;
-    background-color: #ffdc36;
+    background-color: #8A2BE2;
     text-align: center;
     cursor: pointer;
   }
@@ -138,10 +138,10 @@
     display: flex;
     align-content: center;
     align-items: center;
-    background-color: #001628;
+    background-color: #02080d;
   }
   .container .box:nth-child(1):before {
-    background: linear-gradient(to right, #ffe355, #ffe45b);
+    background: linear-gradient(to right, #9643e3, #8317e9);
   }
   .content {
     padding: 0 40px;
@@ -179,7 +179,7 @@
   
     .Upload__container-card:nth-child(2) {
       transform: scale(1);
-      background: #242424;
+      background: #171717;
       margin: 24px;
     }
   
