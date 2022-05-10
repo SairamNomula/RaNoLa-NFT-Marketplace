@@ -11,6 +11,3 @@ Every artists aren't much benefitted for their effort, energy and time. If they 
     * Javascript
 
 👨‍💻🚧
-<!-- 
-## Screenshots:
-### Desktop view: -->
