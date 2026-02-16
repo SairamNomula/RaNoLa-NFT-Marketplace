@@ -38,7 +38,7 @@ public class DataSeeder implements CommandLineRunner {
         User sairam = userRepository.save(User.builder()
                 .username("sairam")
                 .email("sairam@ranola.com")
-                .passwordHash(passwordEncoder.encode("password123"))
+                .passwordHash(passwordEncoder.encode(""))
                 .displayName("Sairam Nomula")
                 .bio("Creator of RaNoLa NFT Marketplace. Digital artist and developer.")
                 .role("ADMIN")
@@ -47,7 +47,7 @@ public class DataSeeder implements CommandLineRunner {
         User rudra = userRepository.save(User.builder()
                 .username("rudra")
                 .email("rudra@ranola.com")
-                .passwordHash(passwordEncoder.encode("password123"))
+                .passwordHash(passwordEncoder.encode(""))
                 .displayName("Rudra")
                 .bio("Digital artist specializing in illusion art.")
                 .build());
@@ -55,7 +55,7 @@ public class DataSeeder implements CommandLineRunner {
         User david = userRepository.save(User.builder()
                 .username("david")
                 .email("david@ranola.com")
-                .passwordHash(passwordEncoder.encode("password123"))
+                .passwordHash(passwordEncoder.encode(""))
                 .displayName("David")
                 .bio("Robotic art enthusiast and NFT collector.")
                 .build());
@@ -63,7 +63,7 @@ public class DataSeeder implements CommandLineRunner {
         User anonymous = userRepository.save(User.builder()
                 .username("anonymous")
                 .email("anon@ranola.com")
-                .passwordHash(passwordEncoder.encode("password123"))
+                .passwordHash(passwordEncoder.encode(""))
                 .displayName("Anonymous")
                 .bio("Mystery artist of the NFT world.")
                 .build());
